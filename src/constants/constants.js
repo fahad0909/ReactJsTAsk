@@ -17,3 +17,8 @@ export const searchConfig = {
     url: baseURL,
     headers: header
 }
+export const searchConfig2 = {
+    method: 'get',
+    url: baseURL,
+    headers: header
+}
